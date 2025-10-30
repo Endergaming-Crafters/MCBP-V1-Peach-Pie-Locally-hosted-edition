@@ -1,0 +1,31 @@
+{
+  "E.Crafters": {
+    "password": "Crafter123@@",
+    "role": "admin",
+    "permissions": [
+      "view_console",
+      "send_message",
+      "start_stop",
+      "manage_users"
+    ]
+  },
+  "Beany": {
+    "password": "beanzzz",
+    "role": "admin",
+    "permissions": [
+      "view_console",
+      "send_message",
+      "start_stop"
+    ]
+  },
+  "Dream": {
+    "password": "dreamy",
+    "role": "user",
+    "permissions": [
+      "send_message",
+      "start_stop",
+      "view_console",
+      "manage_users"
+    ]
+  }
+}

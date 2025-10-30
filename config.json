@@ -1,0 +1,15 @@
+{
+  "minecraft": {
+    "host": "craftersspot.progamer.me",
+    "port": 25565,
+    "version": "1.21.1",
+    "auth": "offline"
+  },
+  "bot": {
+    "username": "KeepAliveBot",
+    "password": "Crafter123"
+  },
+  "server": {
+    "port": 3000
+  }
+}
