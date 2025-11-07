@@ -1,13 +1,13 @@
 {
   "minecraft": {
-    "host": "craftersspot.progamer.me",
+    "host": "add sevrer address",
     "port": 25565,
     "version": "1.21.1",
     "auth": "offline"
   },
   "bot": {
     "username": "KeepAliveBot",
-    "password": "Crafter123"
+    "password": "keepmeup"
   },
   "server": {
     "port": 3000
